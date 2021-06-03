@@ -1,0 +1,9 @@
+def suma (int prvi, int drugi):
+	int rez = prvi+drugi
+	return rez
+	
+def main():
+	int prvi = int(input("Prvi broj: "))
+	int drugi = int(input("Drugi broj: ))
+	
+	print(suma(prvi,drugi))
