@@ -1,5 +1,5 @@
-def suma (int prvi, int drugi):
-	int rez = prvi+drugi
+def suma (int prvi, int drugi, int treci):
+	int rez = prvi+drugi+treci
 	return rez
 	
 def main():
