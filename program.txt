@@ -2,6 +2,7 @@ def suma (int prvi, int drugi, int treci):
 	int rez = prvi+drugi+treci
 	return rez
 	
+#main metod
 def main():
 	int prvi = int(input("Prvi broj: "))
 	int drugi = int(input("Drugi broj: ))
